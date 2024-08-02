@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Reg Page Demo</string>
+    <string name="address">Address</string>
+    <string name="enter_birthdate">Enter BirthDate</string>
+    <string name="email">Email</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="middle_name">Middle Name</string>
+    <string name="register">Register</string>
+    <string name="registration_page_demo">Registration Page Demo</string>
+    <string name="textview">TextView</string>
+    <string name="birth_date">Birth Date</string>
+</resources>
